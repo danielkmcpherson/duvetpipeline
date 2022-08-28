@@ -1,0 +1,42 @@
+Non Saturated
+
+1. trimpad.py
+2. wcsfix.py
+3. wcsfix2.py
+4. cleanup.py
+5. resample.py
+6. hgammamap.py
+7. diffmin.py
+8. trimtime.py
+9. reproject.py
+10. cleanup2.py
+DELETE AREAS
+11. combine.py
+12. varfix1.py
+13. hgammamap2.py
+14. diffmin2.py
+15. finaltrim.py
+16. headerfix.py
+17. finalclean.py
+
+Saturated
+
+1. trimpad.py
+2. wcsfix.py
+3. wcsfix2.py
+4. cleanup.py
+5. resample.py
+6. hgammamap.py
+7. diffmin.py
+8. trimtime.py
+9. shortcombine.py
+11. mk_metacube_dm.py
+12. varfix2.py
+12. reproject2.py
+13. cleanup2.py
+14. combine.py
+15. hgammamap2.py
+16. diffmin2.py
+17. finaltrim.py
+18. headerfix.py
+19. finalclean.py
